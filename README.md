@@ -34,6 +34,8 @@ style=bar
 - `tagStatesIcons` list of https://fontawesome.com/v4.7.0/icons/
 - `tagStatesColors` only HEX COLORS ALLOWED
 
+![](https://raw.githubusercontent.com/Darakah/obsidian-progress/main/images/Example_2.png)
+
 ## Release Notes
 
 ### v0.0.1
