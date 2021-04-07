@@ -3,7 +3,7 @@
 [Obsidian](https://obsidian.md/) plugin to create customizable progress displays for whole vault or specific project using tags.
 
 ## Example
-![](https://raw.githubusercontent.com/Darakah/obsidian-progress/main/images/Example_1.gif)
+![](https://raw.githubusercontent.com/Darakah/obsidian-progress/main/images/Example_2.gif)
 
 ## Usage
 - Render block with block id `progress`
