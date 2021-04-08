@@ -1,4 +1,6 @@
 # Obsidian Progress
+![GitHub release)](https://img.shields.io/github/v/release/Darakah/obsidian-progress)
+![GitHub all releases](https://img.shields.io/github/downloads/Darakah/obsidian-progress/total)
 
 [Obsidian](https://obsidian.md/) plugin to create customizable progress displays for whole vault or specific project using tags.
 
